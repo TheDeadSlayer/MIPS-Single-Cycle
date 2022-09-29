@@ -1,0 +1,28 @@
+Command line:
+   MUX2to1_5Bits_MahmoudSaeed_18102867_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49713
+
+Fri Jun 04 19:46:18 2021
+
+
+ Elaboration Time: 0.0625 sec
+
+ Current Memory Usage: 5155.55 Meg
+
+ Total Signals          : 4
+ Total Nets             : 16
+ Total Signal Drivers   : 1
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 1
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 376
+
+ Total Simulation Time: 0.0625 sec
+
+ Current Memory Usage: 5155.55 Meg
+
+Fri Jun 04 19:46:23 2021
+

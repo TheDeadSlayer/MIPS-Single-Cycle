@@ -1,0 +1,43 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o C:/Users/shahw/Desktop/SingleCycle_MIPS_MahmoudSaeed_18102867/SingleCycle_MIPS_MahmoudSaeed_18102867_isim_beh.exe -prj C:/Users/shahw/Desktop/SingleCycle_MIPS_MahmoudSaeed_18102867/SingleCycle_MIPS_MahmoudSaeed_18102867_beh.prj work.SingleCycle_MIPS_MahmoudSaeed_18102867 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 16
+Turning on mult-threading, number of parallel sub-compilation jobs: 32 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/shahw/Desktop/SingleCycle_MIPS_MahmoudSaeed_18102867/SignExtend_MahmoudSaeed_18102867.vhd" into library work
+Parsing VHDL file "C:/Users/shahw/Desktop/SingleCycle_MIPS_MahmoudSaeed_18102867/ShiftLeft-2_MahmoudSaeed_18102867.vhd" into library work
+Parsing VHDL file "C:/Users/shahw/Desktop/SingleCycle_MIPS_MahmoudSaeed_18102867/RegisterFile_MahmoudSaeed_18102867.vhd" into library work
+Parsing VHDL file "C:/Users/shahw/Desktop/SingleCycle_MIPS_MahmoudSaeed_18102867/PC_MahmoudSaeed_18102867.vhd" into library work
+Parsing VHDL file "C:/Users/shahw/Desktop/SingleCycle_MIPS_MahmoudSaeed_18102867/MUX2to1_MahmoudSaeed_18102867.vhd" into library work
+Parsing VHDL file "C:/Users/shahw/Desktop/SingleCycle_MIPS_MahmoudSaeed_18102867/MUX2to1_5Bits_MahmoudSaeed_18102867.vhd" into library work
+Parsing VHDL file "C:/Users/shahw/Desktop/SingleCycle_MIPS_MahmoudSaeed_18102867/MemoryUnit_MahmoudSaeed_18102867.vhd" into library work
+Parsing VHDL file "C:/Users/shahw/Desktop/SingleCycle_MIPS_MahmoudSaeed_18102867/InstructionMem_MahmoudSaeed_18102867.vhd" into library work
+Parsing VHDL file "C:/Users/shahw/Desktop/SingleCycle_MIPS_MahmoudSaeed_18102867/ControlUnit_MahmoudSaeed_18102867.vhd" into library work
+Parsing VHDL file "C:/Users/shahw/Desktop/SingleCycle_MIPS_MahmoudSaeed_18102867/ALU_MahmoudSaeed_18102867.vhd" into library work
+Parsing VHDL file "C:/Users/shahw/Desktop/SingleCycle_MIPS_MahmoudSaeed_18102867/ALUControl_MahmoudSaeed_18102867.vhd" into library work
+Parsing VHDL file "C:/Users/shahw/Desktop/SingleCycle_MIPS_MahmoudSaeed_18102867/ADDER_MahmoudSaeed_18102867.vhd" into library work
+Parsing VHDL file "C:/Users/shahw/Desktop/SingleCycle_MIPS_MahmoudSaeed_18102867/SingleCycle_MIPS_MahmoudSaeed_18102867.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity PC_MahmoudSaeed_18102867 [pc_mahmoudsaeed_18102867_default]
+Compiling architecture behavioral of entity InstructionMem_MahmoudSaeed_18102867 [instructionmem_mahmoudsaeed_1810...]
+Compiling architecture behavioral of entity MUX2to1_5Bits_MahmoudSaeed_18102867 [mux2to1_5bits_mahmoudsaeed_18102...]
+Compiling architecture behavioral of entity MUX2to1_MahmoudSaeed_18102867 [mux2to1_mahmoudsaeed_18102867_de...]
+Compiling architecture behavioral of entity ADDER_MahmoudSaeed_18102867 [adder_mahmoudsaeed_18102867_defa...]
+Compiling architecture behavioral of entity ShiftLeft2_MahmoudSaeed_18102867 [shiftleft2_mahmoudsaeed_18102867...]
+Compiling architecture behavioral of entity ControlUnit_MahmoudSaeed_18102867 [controlunit_mahmoudsaeed_1810286...]
+Compiling architecture behavioral of entity SignExtend_MahmoudSaeed_18102867 [signextend_mahmoudsaeed_18102867...]
+Compiling architecture behavioral of entity ALU_MahmoudSaeed_18102867 [alu_mahmoudsaeed_18102867_defaul...]
+Compiling architecture behavioral of entity ALUControl_MahmoudSaeed_18102867 [alucontrol_mahmoudsaeed_18102867...]
+Compiling architecture behavioral of entity RegisterFile_MahmoudSaeed_18102867 [registerfile_mahmoudsaeed_181028...]
+Compiling architecture behavioral of entity MemoryUnit_MahmoudSaeed_18102867 [memoryunit_mahmoudsaeed_18102867...]
+Compiling architecture behavioral of entity singlecycle_mips_mahmoudsaeed_18...
+Time Resolution for simulation is 1ps.
+Compiled 30 VHDL Units
+Built simulation executable C:/Users/shahw/Desktop/SingleCycle_MIPS_MahmoudSaeed_18102867/SingleCycle_MIPS_MahmoudSaeed_18102867_isim_beh.exe
+Fuse Memory Usage: 37888 KB
+Fuse CPU Usage: 406 ms

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="SingleCycle_MIPS_MahmoudSaeed_18102867.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="ControlUnit_MahmoudSaeed_18102867_isim_beh.exe"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="InstructionMem_MahmoudSaeed_18102867_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="InstructionMem_MahmoudSaeed_18102867_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="MUX2to1_5Bits_MahmoudSaeed_18102867_isim_beh.exe"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="MemoryUnit_MahmoudSaeed_18102867_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="MemoryUnit_MahmoudSaeed_18102867_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="PC_MahmoudSaeed_18102867_isim_beh.exe"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="SingleCycle_MIPS_MahmoudSaeed_18102867.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="SingleCycle_MIPS_MahmoudSaeed_18102867.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="SingleCycle_MIPS_MahmoudSaeed_18102867.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="SingleCycle_MIPS_MahmoudSaeed_18102867.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="SingleCycle_MIPS_MahmoudSaeed_18102867.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="SingleCycle_MIPS_MahmoudSaeed_18102867.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="SingleCycle_MIPS_MahmoudSaeed_18102867.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="SingleCycle_MIPS_MahmoudSaeed_18102867.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="SingleCycle_MIPS_MahmoudSaeed_18102867.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="SingleCycle_MIPS_MahmoudSaeed_18102867.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="SingleCycle_MIPS_MahmoudSaeed_18102867_beh.prj"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="SingleCycle_MIPS_MahmoudSaeed_18102867_envsettings.html"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="SingleCycle_MIPS_MahmoudSaeed_18102867_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="SingleCycle_MIPS_MahmoudSaeed_18102867_isim_beh.wdb"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="SingleCycle_MIPS_MahmoudSaeed_18102867_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="SingleCycle_MIPS_MahmoudSaeed_18102867_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="SingleCycle_MIPS_MahmoudSaeed_18102867_ngdbuild.xrpt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="SingleCycle_MIPS_MahmoudSaeed_18102867_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="SingleCycle_MIPS_MahmoudSaeed_18102867_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="SingleCycle_MIPS_MahmoudSaeed_18102867_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="_ngo"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/map.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xlnx_auto_0_xdb"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1623337810" xil_pn:name="TRANEXT_compLibraries2_virtex5" xil_pn:prop_ck="5438683702708918982" xil_pn:start_ts="1623337810">
+      <status xil_pn:value="FailedRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1623353675" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1623353675">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1623353675" xil_pn:in_ck="5945057159932326677" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1623353675">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="ADDER_MahmoudSaeed_18102867.vhd"/>
+      <outfile xil_pn:name="ALUControl_MahmoudSaeed_18102867.vhd"/>
+      <outfile xil_pn:name="ALU_MahmoudSaeed_18102867.vhd"/>
+      <outfile xil_pn:name="ControlUnit_MahmoudSaeed_18102867.vhd"/>
+      <outfile xil_pn:name="InstructionMem_MahmoudSaeed_18102867.vhd"/>
+      <outfile xil_pn:name="MUX2to1_5Bits_MahmoudSaeed_18102867.vhd"/>
+      <outfile xil_pn:name="MUX2to1_MahmoudSaeed_18102867.vhd"/>
+      <outfile xil_pn:name="MemoryUnit_MahmoudSaeed_18102867.vhd"/>
+      <outfile xil_pn:name="PC_MahmoudSaeed_18102867.vhd"/>
+      <outfile xil_pn:name="RegisterFile_MahmoudSaeed_18102867.vhd"/>
+      <outfile xil_pn:name="ShiftLeft-2_MahmoudSaeed_18102867.vhd"/>
+      <outfile xil_pn:name="SignExtend_MahmoudSaeed_18102867.vhd"/>
+      <outfile xil_pn:name="SingleCycle_MIPS_MahmoudSaeed_18102867.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1623353675" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="802915605994026563" xil_pn:start_ts="1623353675">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1623353675" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="-9047807584448004895" xil_pn:start_ts="1623353675">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1623353675" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="5168425019252040777" xil_pn:start_ts="1623353675">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1623353675" xil_pn:in_ck="5945057159932326677" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1623353675">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="ADDER_MahmoudSaeed_18102867.vhd"/>
+      <outfile xil_pn:name="ALUControl_MahmoudSaeed_18102867.vhd"/>
+      <outfile xil_pn:name="ALU_MahmoudSaeed_18102867.vhd"/>
+      <outfile xil_pn:name="ControlUnit_MahmoudSaeed_18102867.vhd"/>
+      <outfile xil_pn:name="InstructionMem_MahmoudSaeed_18102867.vhd"/>
+      <outfile xil_pn:name="MUX2to1_5Bits_MahmoudSaeed_18102867.vhd"/>
+      <outfile xil_pn:name="MUX2to1_MahmoudSaeed_18102867.vhd"/>
+      <outfile xil_pn:name="MemoryUnit_MahmoudSaeed_18102867.vhd"/>
+      <outfile xil_pn:name="PC_MahmoudSaeed_18102867.vhd"/>
+      <outfile xil_pn:name="RegisterFile_MahmoudSaeed_18102867.vhd"/>
+      <outfile xil_pn:name="ShiftLeft-2_MahmoudSaeed_18102867.vhd"/>
+      <outfile xil_pn:name="SignExtend_MahmoudSaeed_18102867.vhd"/>
+      <outfile xil_pn:name="SingleCycle_MIPS_MahmoudSaeed_18102867.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1623353678" xil_pn:in_ck="5945057159932326677" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-91786731319912001" xil_pn:start_ts="1623353675">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="SingleCycle_MIPS_MahmoudSaeed_18102867_beh.prj"/>
+      <outfile xil_pn:name="SingleCycle_MIPS_MahmoudSaeed_18102867_isim_beh.exe"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1623353679" xil_pn:in_ck="-6956107326083163424" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-7065730853568200254" xil_pn:start_ts="1623353678">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="SingleCycle_MIPS_MahmoudSaeed_18102867_isim_beh.wdb"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+    </transform>
+    <transform xil_pn:end_ts="1622761896" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1622761896">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1622761896" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="-4294692321788979103" xil_pn:start_ts="1622761896">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1622761896" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="5168425019252040777" xil_pn:start_ts="1622761896">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1622761896" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1622761896">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1622761896" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="802915605994026563" xil_pn:start_ts="1622761896">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1622761896" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="3206529612922900429" xil_pn:start_ts="1622761896">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1622761896" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="3166759047074449811" xil_pn:start_ts="1622761896">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1623337761" xil_pn:in_ck="5945057159932326677" xil_pn:name="TRANEXT_xstsynthesize_virtex6" xil_pn:prop_ck="-4209722210280371098" xil_pn:start_ts="1623337753">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="SingleCycle_MIPS_MahmoudSaeed_18102867.lso"/>
+      <outfile xil_pn:name="SingleCycle_MIPS_MahmoudSaeed_18102867.ngc"/>
+      <outfile xil_pn:name="SingleCycle_MIPS_MahmoudSaeed_18102867.ngr"/>
+      <outfile xil_pn:name="SingleCycle_MIPS_MahmoudSaeed_18102867.prj"/>
+      <outfile xil_pn:name="SingleCycle_MIPS_MahmoudSaeed_18102867.stx"/>
+      <outfile xil_pn:name="SingleCycle_MIPS_MahmoudSaeed_18102867.syr"/>
+      <outfile xil_pn:name="SingleCycle_MIPS_MahmoudSaeed_18102867.xst"/>
+      <outfile xil_pn:name="SingleCycle_MIPS_MahmoudSaeed_18102867_stx_beh.prj"/>
+      <outfile xil_pn:name="SingleCycle_MIPS_MahmoudSaeed_18102867_xst.xrpt"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+    <transform xil_pn:end_ts="1623337761" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="3053631400632398958" xil_pn:start_ts="1623337761">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1623337766" xil_pn:in_ck="1067246784704655324" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="-5378809150396535654" xil_pn:start_ts="1623337761">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="SingleCycle_MIPS_MahmoudSaeed_18102867.bld"/>
+      <outfile xil_pn:name="SingleCycle_MIPS_MahmoudSaeed_18102867.ngd"/>
+      <outfile xil_pn:name="SingleCycle_MIPS_MahmoudSaeed_18102867_ngdbuild.xrpt"/>
+      <outfile xil_pn:name="_ngo"/>
+      <outfile xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    </transform>
+    <transform xil_pn:end_ts="1623353601" xil_pn:in_ck="1067246784704655325" xil_pn:name="TRANEXT_map_virtex7" xil_pn:prop_ck="2100985583056581773" xil_pn:start_ts="1623353594">
+      <status xil_pn:value="FailedRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="SingleCycle_MIPS_MahmoudSaeed_18102867_map.map"/>
+      <outfile xil_pn:name="SingleCycle_MIPS_MahmoudSaeed_18102867_map.mrp"/>
+      <outfile xil_pn:name="_xmsgs/map.xmsgs"/>
+    </transform>
+  </transforms>
+
+</generated_project>

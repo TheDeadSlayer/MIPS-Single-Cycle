@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/shahw/Desktop/SingleCycle_MIPS_MahmoudSaeed_18102867/ADDER_MahmoudSaeed_18102867.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/shahw/Desktop/SingleCycle_MIPS_MahmoudSaeed_18102867/ALUControl_MahmoudSaeed_18102867.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/shahw/Desktop/SingleCycle_MIPS_MahmoudSaeed_18102867/ALU_MahmoudSaeed_18102867.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/shahw/Desktop/SingleCycle_MIPS_MahmoudSaeed_18102867/ControlUnit_MahmoudSaeed_18102867.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/shahw/Desktop/SingleCycle_MIPS_MahmoudSaeed_18102867/InstructionMem_MahmoudSaeed_18102867.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/shahw/Desktop/SingleCycle_MIPS_MahmoudSaeed_18102867/MUX2to1_5Bits_MahmoudSaeed_18102867.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/shahw/Desktop/SingleCycle_MIPS_MahmoudSaeed_18102867/MUX2to1_MahmoudSaeed_18102867.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/shahw/Desktop/SingleCycle_MIPS_MahmoudSaeed_18102867/MemoryUnit_MahmoudSaeed_18102867.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/shahw/Desktop/SingleCycle_MIPS_MahmoudSaeed_18102867/PC_MahmoudSaeed_18102867.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/shahw/Desktop/SingleCycle_MIPS_MahmoudSaeed_18102867/RegisterFile_MahmoudSaeed_18102867.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/shahw/Desktop/SingleCycle_MIPS_MahmoudSaeed_18102867/ShiftLeft-2_MahmoudSaeed_18102867.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/shahw/Desktop/SingleCycle_MIPS_MahmoudSaeed_18102867/SignExtend_MahmoudSaeed_18102867.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/shahw/Desktop/SingleCycle_MIPS_MahmoudSaeed_18102867/SingleCycle_MIPS_MahmoudSaeed_18102867.vhd&quot; into library work</arg>
+</msg>
+
+</messages>
+

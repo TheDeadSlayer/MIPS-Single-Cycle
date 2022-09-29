@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="92" delta="old" >"C:\Users\shahw\Desktop\Studies\Uni\Semester 6\Computer Architecture\Computer Arc Project\Final Arc Project\MIPS_SingleCycle_MahmoudSaeedOsman_18102867\SingleCycle_MIPS_MahmoudSaeed_18102867\RegisterFile_MahmoudSaeed_18102867.vhd" Line 56: <arg fmt="%s" index="1">registers</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="92" delta="old" >"C:\Users\shahw\Desktop\Studies\Uni\Semester 6\Computer Architecture\Computer Arc Project\Final Arc Project\MIPS_SingleCycle_MahmoudSaeedOsman_18102867\SingleCycle_MIPS_MahmoudSaeed_18102867\RegisterFile_MahmoudSaeed_18102867.vhd" Line 57: <arg fmt="%s" index="1">registers</arg> should be on the sensitivity list of the process
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\shahw\Desktop\Studies\Uni\Semester 6\Computer Architecture\Computer Arc Project\Final Arc Project\MIPS_SingleCycle_MahmoudSaeedOsman_18102867\SingleCycle_MIPS_MahmoudSaeed_18102867\SingleCycle_MIPS_MahmoudSaeed_18102867.vhd</arg>&quot; line <arg fmt="%d" index="2">178</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">PC</arg>&gt; of block &lt;<arg fmt="%s" index="4">PC_MahmoudSaeed_18102867</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">SingleCycle_MIPS_MahmoudSaeed_18102867</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\shahw\Desktop\Studies\Uni\Semester 6\Computer Architecture\Computer Arc Project\Final Arc Project\MIPS_SingleCycle_MahmoudSaeedOsman_18102867\SingleCycle_MIPS_MahmoudSaeed_18102867\SingleCycle_MIPS_MahmoudSaeed_18102867.vhd</arg>&quot; line <arg fmt="%d" index="2">181</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">InstructionMemory</arg>&gt; of block &lt;<arg fmt="%s" index="4">InstructionMem_MahmoudSaeed_18102867</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">SingleCycle_MIPS_MahmoudSaeed_18102867</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\shahw\Desktop\Studies\Uni\Semester 6\Computer Architecture\Computer Arc Project\Final Arc Project\MIPS_SingleCycle_MahmoudSaeedOsman_18102867\SingleCycle_MIPS_MahmoudSaeed_18102867\SingleCycle_MIPS_MahmoudSaeed_18102867.vhd</arg>&quot; line <arg fmt="%d" index="2">190</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">RegDestMux</arg>&gt; of block &lt;<arg fmt="%s" index="4">MUX2to1_5Bits_MahmoudSaeed_18102867</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">SingleCycle_MIPS_MahmoudSaeed_18102867</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\shahw\Desktop\Studies\Uni\Semester 6\Computer Architecture\Computer Arc Project\Final Arc Project\MIPS_SingleCycle_MahmoudSaeedOsman_18102867\SingleCycle_MIPS_MahmoudSaeed_18102867\SingleCycle_MIPS_MahmoudSaeed_18102867.vhd</arg>&quot; line <arg fmt="%d" index="2">191</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">BranchMux</arg>&gt; of block &lt;<arg fmt="%s" index="4">MUX2to1_MahmoudSaeed_18102867</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">SingleCycle_MIPS_MahmoudSaeed_18102867</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\shahw\Desktop\Studies\Uni\Semester 6\Computer Architecture\Computer Arc Project\Final Arc Project\MIPS_SingleCycle_MahmoudSaeedOsman_18102867\SingleCycle_MIPS_MahmoudSaeed_18102867\SingleCycle_MIPS_MahmoudSaeed_18102867.vhd</arg>&quot; line <arg fmt="%d" index="2">192</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">ALUSrcMux</arg>&gt; of block &lt;<arg fmt="%s" index="4">MUX2to1_MahmoudSaeed_18102867</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">SingleCycle_MIPS_MahmoudSaeed_18102867</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\shahw\Desktop\Studies\Uni\Semester 6\Computer Architecture\Computer Arc Project\Final Arc Project\MIPS_SingleCycle_MahmoudSaeedOsman_18102867\SingleCycle_MIPS_MahmoudSaeed_18102867\SingleCycle_MIPS_MahmoudSaeed_18102867.vhd</arg>&quot; line <arg fmt="%d" index="2">193</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">MemtoRegMux</arg>&gt; of block &lt;<arg fmt="%s" index="4">MUX2to1_MahmoudSaeed_18102867</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">SingleCycle_MIPS_MahmoudSaeed_18102867</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\shahw\Desktop\Studies\Uni\Semester 6\Computer Architecture\Computer Arc Project\Final Arc Project\MIPS_SingleCycle_MahmoudSaeedOsman_18102867\SingleCycle_MIPS_MahmoudSaeed_18102867\SingleCycle_MIPS_MahmoudSaeed_18102867.vhd</arg>&quot; line <arg fmt="%d" index="2">196</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">BAdder</arg>&gt; of block &lt;<arg fmt="%s" index="4">ADDER_MahmoudSaeed_18102867</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">SingleCycle_MIPS_MahmoudSaeed_18102867</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\shahw\Desktop\Studies\Uni\Semester 6\Computer Architecture\Computer Arc Project\Final Arc Project\MIPS_SingleCycle_MahmoudSaeedOsman_18102867\SingleCycle_MIPS_MahmoudSaeed_18102867\SingleCycle_MIPS_MahmoudSaeed_18102867.vhd</arg>&quot; line <arg fmt="%d" index="2">197</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">PCAdder</arg>&gt; of block &lt;<arg fmt="%s" index="4">ADDER_MahmoudSaeed_18102867</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">SingleCycle_MIPS_MahmoudSaeed_18102867</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\shahw\Desktop\Studies\Uni\Semester 6\Computer Architecture\Computer Arc Project\Final Arc Project\MIPS_SingleCycle_MahmoudSaeedOsman_18102867\SingleCycle_MIPS_MahmoudSaeed_18102867\SingleCycle_MIPS_MahmoudSaeed_18102867.vhd</arg>&quot; line <arg fmt="%d" index="2">200</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">ShiftLeft2</arg>&gt; of block &lt;<arg fmt="%s" index="4">ShiftLeft2_MahmoudSaeed_18102867</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">SingleCycle_MIPS_MahmoudSaeed_18102867</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\shahw\Desktop\Studies\Uni\Semester 6\Computer Architecture\Computer Arc Project\Final Arc Project\MIPS_SingleCycle_MahmoudSaeedOsman_18102867\SingleCycle_MIPS_MahmoudSaeed_18102867\SingleCycle_MIPS_MahmoudSaeed_18102867.vhd</arg>&quot; line <arg fmt="%d" index="2">203</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">ControlUnit</arg>&gt; of block &lt;<arg fmt="%s" index="4">ControlUnit_MahmoudSaeed_18102867</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">SingleCycle_MIPS_MahmoudSaeed_18102867</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\shahw\Desktop\Studies\Uni\Semester 6\Computer Architecture\Computer Arc Project\Final Arc Project\MIPS_SingleCycle_MahmoudSaeedOsman_18102867\SingleCycle_MIPS_MahmoudSaeed_18102867\SingleCycle_MIPS_MahmoudSaeed_18102867.vhd</arg>&quot; line <arg fmt="%d" index="2">206</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">SignExtend</arg>&gt; of block &lt;<arg fmt="%s" index="4">SignExtend_MahmoudSaeed_18102867</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">SingleCycle_MIPS_MahmoudSaeed_18102867</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\shahw\Desktop\Studies\Uni\Semester 6\Computer Architecture\Computer Arc Project\Final Arc Project\MIPS_SingleCycle_MahmoudSaeedOsman_18102867\SingleCycle_MIPS_MahmoudSaeed_18102867\SingleCycle_MIPS_MahmoudSaeed_18102867.vhd</arg>&quot; line <arg fmt="%d" index="2">210</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">ALU</arg>&gt; of block &lt;<arg fmt="%s" index="4">ALU_MahmoudSaeed_18102867</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">SingleCycle_MIPS_MahmoudSaeed_18102867</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\shahw\Desktop\Studies\Uni\Semester 6\Computer Architecture\Computer Arc Project\Final Arc Project\MIPS_SingleCycle_MahmoudSaeedOsman_18102867\SingleCycle_MIPS_MahmoudSaeed_18102867\SingleCycle_MIPS_MahmoudSaeed_18102867.vhd</arg>&quot; line <arg fmt="%d" index="2">211</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">ALUControl</arg>&gt; of block &lt;<arg fmt="%s" index="4">ALUControl_MahmoudSaeed_18102867</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">SingleCycle_MIPS_MahmoudSaeed_18102867</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\shahw\Desktop\Studies\Uni\Semester 6\Computer Architecture\Computer Arc Project\Final Arc Project\MIPS_SingleCycle_MahmoudSaeedOsman_18102867\SingleCycle_MIPS_MahmoudSaeed_18102867\SingleCycle_MIPS_MahmoudSaeed_18102867.vhd</arg>&quot; line <arg fmt="%d" index="2">215</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">RegisterFile</arg>&gt; of block &lt;<arg fmt="%s" index="4">RegisterFile_MahmoudSaeed_18102867</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">SingleCycle_MIPS_MahmoudSaeed_18102867</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="new" >&quot;<arg fmt="%s" index="1">C:\Users\shahw\Desktop\Studies\Uni\Semester 6\Computer Architecture\Computer Arc Project\Final Arc Project\MIPS_SingleCycle_MahmoudSaeedOsman_18102867\SingleCycle_MIPS_MahmoudSaeed_18102867\SingleCycle_MIPS_MahmoudSaeed_18102867.vhd</arg>&quot; line <arg fmt="%d" index="2">219</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">MemoryUnit</arg>&gt; of block &lt;<arg fmt="%s" index="4">MemoryUnit_MahmoudSaeed_18102867</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">SingleCycle_MIPS_MahmoudSaeed_18102867</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+</messages>
+

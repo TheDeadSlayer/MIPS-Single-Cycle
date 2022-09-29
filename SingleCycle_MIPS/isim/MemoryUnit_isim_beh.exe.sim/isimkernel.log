@@ -1,0 +1,28 @@
+Command line:
+   MemoryUnit_MahmoudSaeed_18102867_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49179
+
+Fri Jun 04 02:01:24 2021
+
+
+ Elaboration Time: 0.046875 sec
+
+ Current Memory Usage: 5155.04 Meg
+
+ Total Signals          : 7
+ Total Nets             : 1123
+ Total Signal Drivers   : 2
+ Total Blocks           : 3
+ Total Primitive Blocks : 3
+ Total Processes        : 1
+ Total Traceable Variables  : 13
+ Total Scalar Nets and Variables : 1606
+
+ Total Simulation Time: 0.046875 sec
+
+ Current Memory Usage: 5155.04 Meg
+
+Fri Jun 04 02:01:28 2021
+
